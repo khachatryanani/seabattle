@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.exe
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.deps.json
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.runtimeconfig.json
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.dll
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleGame.pdb
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleLib.dll
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\bin\Debug\netcoreapp3.1\SeaBattleLib.pdb
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.AssemblyInfo.cs
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.csproj.CopyComplete
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.dll
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.pdb
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleGame\obj\Debug\netcoreapp3.1\SeaBattleGame.genruntimeconfig.cache

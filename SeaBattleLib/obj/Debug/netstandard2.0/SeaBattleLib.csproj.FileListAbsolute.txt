@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\bin\Debug\netstandard2.0\SeaBattleLib.deps.json
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\bin\Debug\netstandard2.0\SeaBattleLib.dll
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\bin\Debug\netstandard2.0\SeaBattleLib.pdb
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\obj\Debug\netstandard2.0\SeaBattleLib.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\obj\Debug\netstandard2.0\SeaBattleLib.AssemblyInfo.cs
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\obj\Debug\netstandard2.0\SeaBattleLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\obj\Debug\netstandard2.0\SeaBattleLib.dll
+C:\Users\DELL\source\repos\seabattle\SeaBattleGame\SeaBattleLib\obj\Debug\netstandard2.0\SeaBattleLib.pdb
